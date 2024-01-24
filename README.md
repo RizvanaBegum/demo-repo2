@@ -18,7 +18,7 @@ This Terraform script automates the process of creating a Virtual Private Cloud 
 
 ## Initialize Terraform:
 
- [terraform init]
+ **terraform init**
 
   ## Steps included in the project
 
